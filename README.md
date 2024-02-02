@@ -2,10 +2,10 @@
 Project 2 from Columbia University Data Analytics Bootcamp
 
 # Authors
-Daniel Kenet - Category and Subcategory DataFrames
-Jarret Baum - Campaign DataFrame
-Emily Sims - Contacts DataFrame
-Anthony Banda - Crowdfunding Database
+- Daniel Kenet - Category and Subcategory DataFrames
+- Jarret Baum - Campaign DataFrame
+- Emily Sims - Contacts DataFrame
+- Anthony Banda - Crowdfunding Database
 
 
 # Requirements
