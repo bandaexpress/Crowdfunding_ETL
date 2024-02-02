@@ -40,11 +40,11 @@ Anthony Banda - Crowdfunding Database
 
 ## A Contacts DataFrame is Created (15 points)
 - The DataFrame has the following columns: (10 points)
-  -- A "contact_id" column
-  -- A "first_name" column
-  -- A "last_name" column
-  -- An "email" column
-  -- The contacts DataFrame is exported as contacts.csv (5 points)
+  - A "contact_id" column
+  - A "first_name" column
+  - A "last_name" column
+  - An "email" column
+  - The contacts DataFrame is exported as contacts.csv (5 points)
 
 ## A Crowdfunding Database is Created (25 points)
 - A database schema labeled, crowdfunding_db_schema.sql is created (5 points)
