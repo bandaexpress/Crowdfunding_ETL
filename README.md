@@ -36,7 +36,7 @@ Project 2 from Columbia University Data Analytics Bootcamp
   - An "end_date" with the time formatted as "YYYY-MM-DD"
   - A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
   - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-  - The campaign DataFrame is exported as campaign.csv (5 points)
+  - The campaign DataFrame is exported as campaign.csv (5 points) See campaign.csv in Resources folder: https://github.com/bandaexpress/Crowdfunding_ETL/blob/490de93a472b1860d2fc70666bbc834c0a779803/Resources/campaign.csv
 
 ## A Contacts DataFrame is Created (15 points)
 - The DataFrame has the following columns: (10 points)
