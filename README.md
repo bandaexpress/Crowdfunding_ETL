@@ -13,7 +13,7 @@ Project 2 from Columbia University Data Analytics Bootcamp
 ## A Category DataFrame is Created (15 points)
 - The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories (5 points)
 - The DataFrame has a "category" column that contains only the category titles (5 points)
-- The category DataFrame is exported as category.csv (5 points)
+- The category DataFrame is exported as category.csv (5 points) See category.csv file in Resources folder https://github.com/bandaexpress/Crowdfunding_ETL/blob/9f9f992a88d2fefe0a3493c7f538ea0c81515ff5/Resources/category.csv
 
 ## A Subcategory DataFrame is Created (15 points)
 - The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories (5 points)
