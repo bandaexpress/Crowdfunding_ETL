@@ -44,7 +44,7 @@ Project 2 from Columbia University Data Analytics Bootcamp
   - A "first_name" column
   - A "last_name" column
   - An "email" column
-  - The contacts DataFrame is exported as contacts.csv (5 points)
+  - The contacts DataFrame is exported as contacts.csv (5 points) See contacts.csv file in Resources folder https://github.com/bandaexpress/Crowdfunding_ETL/blob/0417a660795c6b3cbff3dc7314dbbe7b8f51b979/Resources/contacts.csv
 
 ## A Crowdfunding Database is Created (25 points)
 - A database schema labeled, crowdfunding_db_schema.sql is created (5 points)
