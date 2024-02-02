@@ -22,21 +22,21 @@ Anthony Banda - Crowdfunding Database
 
 ## A Campaign DataFrame is Created (30 points)
 - The DataFrame has the following columns: (25 points)
-  -- A "cf_id" column
-  -- A "contact_id" column
-  -- A "company_name" column
-  -- A "description" column
-  -- A "goal" column that is a float data type
-  -- A "pledged" column that is a float data type
-  -- An "outcome" column
-  -- A "backers_count" column
-  -- A "country" column
-  -- A "currency" column
-  -- A "launch_date" with the time formatted as "YYYY-MM-DD"
-  -- An "end_date" with the time formatted as "YYYY-MM-DD"
-  -- A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
-  -- A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-  -- The campaign DataFrame is exported as campaign.csv (5 points)
+  - A "cf_id" column
+  - A "contact_id" column
+  - A "company_name" column
+  - A "description" column
+  - A "goal" column that is a float data type
+  - A "pledged" column that is a float data type
+  - An "outcome" column
+  - A "backers_count" column
+  - A "country" column
+  - A "currency" column
+  - A "launch_date" with the time formatted as "YYYY-MM-DD"
+  - An "end_date" with the time formatted as "YYYY-MM-DD"
+  - A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
+  - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
+  - The campaign DataFrame is exported as campaign.csv (5 points)
 
 ## A Contacts DataFrame is Created (15 points)
 - The DataFrame has the following columns: (10 points)
